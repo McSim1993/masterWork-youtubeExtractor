@@ -1,0 +1,23 @@
+{
+  "name": "masterwork-youtube-extractor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "extractor.js",
+  "dependencies": {
+    "request": "^2.78.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/McSim1993/masterWork-youtubeExtractor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/McSim1993/masterWork-youtubeExtractor/issues"
+  },
+  "homepage": "https://github.com/McSim1993/masterWork-youtubeExtractor#readme"
+}
